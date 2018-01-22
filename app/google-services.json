@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078093555226",
+    "firebase_url": "https://my-chat-room-project.firebaseio.com",
+    "project_id": "my-chat-room-project",
+    "storage_bucket": "my-chat-room-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078093555226:android:34f04b093166f373",
+        "android_client_info": {
+          "package_name": "com.example.sony.mydemochatroomproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078093555226-sjag40o0mupqtp23iuurj5amo4svqlev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1t8KaTuOobBe0s8CCYKPA-TwECShYuZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
